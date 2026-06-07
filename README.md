@@ -68,11 +68,19 @@ One of the core design decisions was consolidating 17 inconsistent JIRA issue ty
 
 ## Dashboard Preview
 
-![Pipeline Architecture](visuals/pipeline_architecture.png)
-
 ![Tableau Dashboard](visuals/tableau_dashboard.png)
 
-> The Tableau workbook (`.twbx`) is included in the `/tableau` folder. All data is fully synthetic — no real Expedia or employee data is present.
+🔗 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ExpediaJIRADefectRemediationDashboard/ExpediaDefectRemediationDashboard)**
+
+---
+
+## Pipeline Architecture
+
+![Pipeline Architecture](visuals/pipeline_architecture.png)
+
+🔗 **[View Full Interactive Process Map on Miro](https://miro.com/app/board/uXjVHOBZXhk=/?share_link_id=468068024166)**
+
+> All data is fully synthetic — no real Expedia or employee data is present.
 
 ---
 
@@ -133,11 +141,9 @@ Of the 1,820 open bug-tier tickets:
 │   └── BUS_266_JIRA_Bug_Project.ipynb
 ├── docs/
 │   └── Project_Plan_Ardenvale-Wood_Consulting.pdf
-├── visuals/
-│   ├── pipeline_architecture.png
-│   └── tableau_dashboard.png
-└── tableau/
-    └── JIRA_Defect_Remediation.twbx
+└── visuals/
+    ├── pipeline_architecture.png
+    └── tableau_dashboard.png
 ```
 
 ---
