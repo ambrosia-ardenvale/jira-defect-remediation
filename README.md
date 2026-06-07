@@ -68,7 +68,7 @@ One of the core design decisions was consolidating 17 inconsistent JIRA issue ty
 
 ## Dashboard Preview
 
-![Tableau Dashboard](visuals/tableau_dashboard.png)
+![Tableau Dashboard](tableau_dashboard.png)
 
 🔗 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ExpediaJIRADefectRemediationDashboard/ExpediaDefectRemediationDashboard)**
 
@@ -76,7 +76,7 @@ One of the core design decisions was consolidating 17 inconsistent JIRA issue ty
 
 ## Pipeline Architecture
 
-![Pipeline Architecture](visuals/pipeline_architecture.png)
+![Pipeline Architecture](pipeline_architecture.png)
 
 🔗 **[View Full Interactive Process Map on Miro](https://miro.com/app/board/uXjVHOBZXhk=/?share_link_id=468068024166)**
 
@@ -137,13 +137,12 @@ Of the 1,820 open bug-tier tickets:
 
 ```
 ├── README.md
+├── pipeline_architecture.png
+├── tableau_dashboard.png
 ├── notebooks/
 │   └── BUS_266_JIRA_Bug_Project.ipynb
-├── docs/
-│   └── Project_Plan_Ardenvale-Wood_Consulting.pdf
-└── visuals/
-    ├── pipeline_architecture.png
-    └── tableau_dashboard.png
+└── docs/
+    └── Project_Plan_Ardenvale-Wood_Consulting.pdf
 ```
 
 ---
