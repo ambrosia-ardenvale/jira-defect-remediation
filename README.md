@@ -65,6 +65,9 @@ One of the core design decisions was consolidating 17 inconsistent JIRA issue ty
 | Tier 4 | Non-Bug Work | Out of scope — excluded from analysis |
 
 ---
+## Full Project Plan Report
+
+- 📄 [Full Project Plan Report (PDF)](./Project_Plan_Ardenvale-Wood_Consulting.pdf) — Executive summary, project overview, scope, stakeholders, requirements & deliverables, timeline & milestones, WBS, budget & resources, risks & issues, communication plan, change control, and project approval.
 
 ## Dashboard Preview
 
