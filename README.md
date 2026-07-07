@@ -69,6 +69,10 @@ One of the core design decisions was consolidating 17 inconsistent JIRA issue ty
 
 - 📄 [Full Project Plan Report (PDF)](./Project_Plan_Ardenvale-Wood_Consulting.pdf) — Executive summary, project overview, scope, stakeholders, requirements & deliverables, timeline & milestones, WBS, budget & resources, risks & issues, communication plan, change control, and project approval.
 
+## Python Jupyter Notebook File
+
+- 📄 [Full Project Plan Report (PDF)](./BUS_266_JIRA_Bug_Project.ipynb) — Full ETL pipeline: taxonomy, aging, org join, cost estimate, CSV export rendering clean datasets (5 CSVs), analysis-ready outputs feeding all charts and the dashboard
+
 ## Dashboard Preview
 
 ![Tableau Dashboard](tableau_dashboard.png)
